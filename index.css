@@ -63,7 +63,6 @@
  }
 
  #opcion:hover {
-	 border-radius: 10px;
 	background-color: rgb(35, 73, 189);
 	transition: background-color .3s;
 	cursor: pointer;
